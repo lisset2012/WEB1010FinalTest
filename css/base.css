@@ -1,0 +1,332 @@
+body {
+   
+    margin: 0;
+    padding: 0;
+}
+
+ #nav1{
+    position: absolute;
+    left: 15.625vw;
+
+}
+
+#acrostia1{
+    font-family: 'Damion', cursive;
+    color: white;
+    font-size: 30px;
+}
+
+#navbarNav1{
+    position: absolute;
+    left: 50%;
+    top: 0;
+    padding-top: 10px;
+    /* /* background-color: transparent; */
+}
+
+.nav-link{
+    color: white;
+}
+
+/* .img1{
+    position: absolute;
+    left: 0;
+    top: 0;
+} */
+    .rectangle {
+        border-radius: 4px;
+        background-color: rgb(255, 255, 255);
+        opacity: 0.302;
+        position: absolute;
+        left: 336px;
+        top: 224px;
+        width: 660px;
+        height: 172px;
+        z-index: 263;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+
+      }
+    
+.good-idea{
+    font-size: 50px;
+    font-family: 'Lato', sans-serif;
+    color: #06ccfd;
+    text-align: right;
+    padding: 10px 0px 10px 10px;
+   
+  }
+  
+
+.first{
+    font-size: 111px;
+    font-family: 'Lato', sans-serif;
+    color: #06ccfd;
+    text-align: right;
+    padding: 10px 10px 10px 0px;
+  }
+
+  .big-container{
+      display: flex;
+      flex-direction: row;
+      justify-content:space-between;
+  }
+
+
+
+
+     /* Header */
+   /* Navbar 1 */
+   /* #navlogo {
+    font-size: 50pt;
+    font-family: "Damion";
+    color: rgb(255, 255, 255);
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: 255;
+    font-family: 'Damion', cursive;
+  }
+  
+   #acrostia{
+    font-family: Damion;
+    font-size: 25pt;
+    color: white;
+    } */
+
+li{
+    color: white;
+}
+
+li:hover{
+    background-color: #74c7d5;
+    color: white !important;
+    border-radius:5px;
+   }
+   
+   /* Main */
+   /* Navbar2 */
+   /* base.css code  */
+   #nav1{
+    position: absolute;
+    left: 15.625vw;
+
+}
+
+#acrostia1{
+    font-family: 'Damion', cursive;
+    color: white;
+    font-size: 30px;
+}
+
+#navbarNav1{
+    position: absolute;
+    left: 50%;
+    top: 0;
+    padding-top: 10px;
+}
+
+.nav-link{
+    color: white;
+}
+
+.img1{
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.rectangle {
+        border-radius: 4px;
+        background-color: rgb(255, 255, 255);
+        opacity: 0.302;
+        position: absolute;
+        left: 336px;
+        top: 224px;
+        width: 660px;
+        height: 172px;
+        z-index: 263;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+
+      }
+    
+.good-idea{
+    font-size: 50px;
+    font-family: 'Lato', sans-serif;
+    color: #06ccfd;
+    text-align: right;
+    padding: 10px 0px 10px 10px;
+   
+  }
+  
+
+.first{
+    font-size: 111px;
+    font-family: 'Lato', sans-serif;
+    color: #06ccfd;
+    text-align: right;
+    padding: 10px 10px 10px 0px;
+  }
+
+  .big-container{
+      display: flex;
+      flex-direction: row;
+      justify-content:space-between;
+  }
+  /* base.css end */
+
+.main{
+    background-color:#b64b52;
+    width: 1366px;
+    height: 1000px;
+}
+#nav2{
+    position: relative;
+    left: 0;
+
+}
+
+#acrostia2{
+    font-family: 'Damion', cursive;
+    color: white;
+    font-size: 30px;
+}
+
+#navbarNav2{
+    /* position: absolute;
+    left: 50%; 
+    top: 0;*/
+    padding-top: 10px;
+}
+
+.nav-link{
+    color: white;
+}
+  
+
+.our-services{
+    background-color: #b64b52;
+    text-align: center;
+    color: white;
+    /* padding-top: 100px;
+    padding-bottom: 100px; */
+    padding: 100px 200px;
+    
+}
+
+.services{
+    background-color: #b64b52;
+    padding: 0px 0px 100px 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+
+
+.service1 {
+    border-radius: 5px;
+    background-color: rgb(200, 83, 90);
+    opacity: 0.8;
+    /* position: absolute;
+    left: 250px;
+    top: 1476px;*/
+    width: 150px;
+    height: 200px;
+    /* z-index: 239;  */
+    text-align: center;
+    
+    margin: 0px 10px 0px 0px;
+    
+  }
+  .service1 h6 {
+    color: white;
+}
+
+.service1 p {
+    color: white;
+}
+.service2 {
+    border-radius: 5px;
+    background-color: rgb(200, 83, 90);
+    opacity: 0.8;
+    /* position: absolute;
+    left: 250px;
+    top: 1476px;*/
+    width: 150px;
+    height: 200px;
+    /* z-index: 239;  */
+    text-align: center;
+    color: white;
+    margin: 0px 10px 0px 0px;
+  }
+
+  .service2 h6 {
+    color: white;
+}
+
+.service2 p {
+    color: white;
+}
+
+.service3 {
+    border-radius: 5px;
+    background-color: rgb(200, 83, 90);
+    opacity: 0.8;
+    /* position: absolute;
+    left: 250px;
+    top: 1476px;*/
+    width: 150px;
+    height: 200px;
+    /* z-index: 239;  */
+    text-align: center;
+    color: white;
+    margin: 0px 10px 0px 0px;
+  }
+
+  .service3 h6 {
+    color: white;
+}
+
+.service3 p {
+    color: white;
+}
+
+.service4 {
+    border-radius: 5px;
+    background-color: rgb(200, 83, 90);
+    opacity: 0.8;
+    /* position: absolute;
+    left: 250px;
+    top: 1476px;*/
+    width: 150px;
+    height: 200px;
+    /* z-index: 239;  */
+    text-align: center;
+    color: white;
+    margin: 0px;
+  }
+
+  .service4 h6 {
+    color: white;
+}
+
+.service4 p {
+    color: white;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+
+  
+
