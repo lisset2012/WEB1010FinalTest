@@ -244,6 +244,8 @@ li:hover{
     text-align: center;
     
     margin: 0px 10px 0px 0px;
+    padding: 10px;
+    color: white;
     
   }
   .service1 h6 {
@@ -253,6 +255,7 @@ li:hover{
 .service1 p {
     color: white;
 }
+
 .service2 {
     border-radius: 5px;
     background-color: rgb(200, 83, 90);
@@ -266,6 +269,7 @@ li:hover{
     text-align: center;
     color: white;
     margin: 0px 10px 0px 0px;
+    padding: 10px;
   }
 
   .service2 h6 {
@@ -289,6 +293,7 @@ li:hover{
     text-align: center;
     color: white;
     margin: 0px 10px 0px 0px;
+    padding: 10px;
   }
 
   .service3 h6 {
@@ -312,6 +317,7 @@ li:hover{
     text-align: center;
     color: white;
     margin: 0px;
+    padding: 10px;
   }
 
   .service4 h6 {
